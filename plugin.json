@@ -1,0 +1,8 @@
+{
+  "id": "slskd-friend",
+  "name": "Slskd Friend",
+  "version": "0.0.1",
+  "apiVersion": "1.x",
+  "minHostVersion": "2.12.0",
+  "entryAssembly": "SlskdFriend.dll"
+}
