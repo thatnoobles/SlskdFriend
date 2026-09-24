@@ -15,7 +15,9 @@ public class SlskdFriendPlugin : IPlugin
         Name            = "Slskd Friend",
         Version         = "0.0.1",
         ApiVersion      = "1.x",
-        MinHostVersion  = "2.12.0", 
+        MinHostVersion  = "2.12.0",
+        EntryAssembly   = "Lidarr.Plugin.SlskdFriend.dll",
+        Author          = "thatnoobles",
     };
     
     private IPluginContext? context;

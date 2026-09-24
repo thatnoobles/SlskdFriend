@@ -4,5 +4,5 @@
   "version": "0.0.1",
   "apiVersion": "1.x",
   "minHostVersion": "2.12.0",
-  "entryAssembly": "SlskdFriend.dll"
+  "entryAssembly": "Lidarr.Plugin.SlskdFriend.dll"
 }
